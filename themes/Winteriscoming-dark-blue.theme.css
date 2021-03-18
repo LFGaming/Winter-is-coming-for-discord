@@ -2,8 +2,8 @@
 * @name Winter is coming
 * @author LFGaming
 * @version 1.0
-* @description An easily customizable and automatically updating theme
-* @invite FdZhbjY
+* @description An unofficial port from the VScode theme Winter is coming.
+* @invite me
 * @source https://github.com/LFGaming/Winter-is-coming-for-discord
 */
 
@@ -49,8 +49,8 @@
   --text-error-hover: #ff79c6;
   --text-selection: #103362; /* Chromium precess this color with alpha channel */
   --text-on-accent: #bd93f9;
-  --interactive-normal: #ffb86c;
-  --interactive-hover: #ff5555;
+  --interactive-normal: #ffffff;
+  --interactive-hover: #219fd5;
   --interactive-accent: #0c499477;
   --interactive-accent-rgb: 123, 108, 217;
   --interactive-accent-hover: #ff5555;
@@ -152,6 +152,10 @@
 }
 
 .scroller-2LSbBU{
+  background-color: var(--background-secondary);
+}
+
+.titleBar-AC4pGV{
   background-color: var(--background-secondary);
 }
 
