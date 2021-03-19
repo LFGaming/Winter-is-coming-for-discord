@@ -1,12 +1,12 @@
 # Winter is coming for obsidian
 
 ![GitHub](https://img.shields.io/github/license/LFGaming/Winter-is-coming-for-obsidian)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/LFGaming/Winter-is-coming-for-obsidian/latest/total)
-![GitHub issues](https://img.shields.io/github/issues/LFGaming/Winter-is-coming-for-obsidian)
-![GitHub Repo stars](https://img.shields.io/github/stars/LFGaming/Winter-is-coming-for-obsidian?style=social)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/LFGaming/Winter-is-coming-for-discord/latest/total)
+![GitHub issues](https://img.shields.io/github/issues/LFGaming/Winter-is-coming-for-discord)
+![GitHub Repo stars](https://img.shields.io/github/stars/LFGaming/Winter-is-coming-for-discord?style=social)
 <!--![GitHub all releases](https://img.shields.io/github/downloads/LFGaming/Winter-is-coming-for-obsidian/total)-->
 
-A unofficial obsidian port of the VScode theme Winter is coming.
+A unofficial Discord port of the VScode theme Winter is coming.
 
 - Dark blue
 ![screenshot030221](https://i.imgur.com/cmVIl8C.png)
