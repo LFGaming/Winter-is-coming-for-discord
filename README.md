@@ -1,3 +1,5 @@
+# Discontinued at the moment!
+
 # Winter is coming for obsidian
 
 ![GitHub](https://img.shields.io/github/license/LFGaming/Winter-is-coming-for-obsidian)
