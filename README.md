@@ -44,7 +44,7 @@ Used the [Dracula] theme as a format for this project. <br/>
 
 ## License
 
-[GPL-3.0]
+[MIT](https://github.com/LFGaming/Winter-is-coming-for-discord/blob/main/LICENSE)
 
 <br/>
 
