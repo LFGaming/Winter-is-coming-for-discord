@@ -1,4 +1,4 @@
-# Discontinued at the moment!
+# Discontinued at the moment! But still works as of 23/08/21
 <br><br><br><br>
 
 # Winter is coming for obsidian
